@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.background{
+    height: 75vh;
+    width: 100vw;
+    background-image: url(../backgroundimage.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+
+.track{
+    height: 30vh;
+    width: 100vw;
+    margin-top: 30em;
+    background-image: url(../track.png);
+}
+
+.car{
+    height: 20vh;
+    width: 50vw;
+    background-image: url(../car.png);
+}
+
