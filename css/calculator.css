@@ -1,0 +1,38 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    border: 2px solid black;
+    border-radius: 8%;
+    height: 95vh;
+    width: 30vw;
+    margin: 1em 30em;
+    text-align: center;
+    background-color: rgba(96, 89, 89, 0.548);
+}
+
+.textview{
+    height: 3em;
+    width: 25vw;
+    margin-top: 2em;
+    border: 1px solid black;
+}
+
+.btn{
+    height: 6em;
+    width: 6em;
+    border: 1px solid black;
+    margin-top: 1.5em;
+    margin-left: .5em;
+    font-size: 13px;
+    cursor: pointer;
+    color: white;
+    background-color: blue;
+}
+
+.btn:hover{
+    background-color: red;
+}
